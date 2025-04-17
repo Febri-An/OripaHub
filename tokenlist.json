@@ -1,0 +1,19 @@
+{
+  "name": "Oripa Token List",
+  "timestamp": "2025-04-17T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xD4CEc79d910D65Bacf79F5161C766b60AF8968B7",
+      "name": "Oripa Hub",
+      "symbol": "ORIPA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Febri-An/OripaHub/main/oripa.png"
+    }
+  ]
+}
